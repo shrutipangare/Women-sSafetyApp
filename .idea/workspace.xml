@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fb18cc5a-e8f4-4c82-bcac-a96355696c65" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="Pixel_2_API_24" />
+  <component name="ProjectId" id="1iSYtZVgXjIRuN0jCoyAwu4iIXb" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Document from _shrutipangare_" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fb18cc5a-e8f4-4c82-bcac-a96355696c65" name="Default Changelist" comment="" />
+      <created>1601902675634</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601902675634</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="373" y="0" key="#WomenSafety" timestamp="1601912202724">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="373" y="0" key="#WomenSafety/0.0.1280.680@0.0.1280.680" timestamp="1601912202724" />
+    <state x="373" y="0" key="#Women_Safety_App" timestamp="1601903702862">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="373" y="0" key="#Women_Safety_App/0.0.1280.680@0.0.1280.680" timestamp="1601903702862" />
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601903827200">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1601903827200" />
+    <state x="383" y="143" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1601903325591">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="383" y="143" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680@0.0.1280.680" timestamp="1601903325591" />
+    <state x="373" y="0" key="#womensafety" timestamp="1601903802520">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="373" y="0" key="#womensafety/0.0.1280.680@0.0.1280.680" timestamp="1601903802520" />
+    <state x="421" y="95" key="FileChooserDialogImpl" timestamp="1601912368574">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1601912368574" />
+    <state width="1236" height="121" key="GridCell.Tab.0.bottom" timestamp="1601903668384">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1236" height="121" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1601903668384" />
+    <state width="1236" height="121" key="GridCell.Tab.0.center" timestamp="1601903668384">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1236" height="121" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1601903668384" />
+    <state width="1236" height="121" key="GridCell.Tab.0.left" timestamp="1601903668384">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1236" height="121" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1601903668384" />
+    <state width="1236" height="121" key="GridCell.Tab.0.right" timestamp="1601903668384">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1236" height="121" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1601903668384" />
+    <state x="93" y="93" width="1095" height="495" key="com.android.tools.idea.avdmanager.AvdListDialog" timestamp="1601903409194">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="93" y="93" width="1095" height="495" key="com.android.tools.idea.avdmanager.AvdListDialog/0.0.1280.680@0.0.1280.680" timestamp="1601903409194" />
+  </component>
+</project>

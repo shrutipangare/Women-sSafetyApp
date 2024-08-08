@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">WomenSafety</string>
+    <string name="Person_name">Name</string>
+    <string name="Mobile_no">Mobile number</string>
+    <string name="YEAR" translatable="false">year</string>
+    <string name="note" />
+    <string name="note1">We will mail you a link after when you will provide us with the email and click on the send button.Please click on that link to reset your password</string>
+</resources>
+
+
